@@ -1,0 +1,1 @@
+var e={assortment:`Assortment`,forecasting:`Forecasting`,pricing:`Pricing`,relevance:`Relevance`,"sales-planning":`Sales Planning`,targeting:`Targeting`};export{e as t};
