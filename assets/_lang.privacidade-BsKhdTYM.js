@@ -1,1 +1,0 @@
-import{c as e,n as t,r as n}from"./policy-content-BOpvACO6.js";var r=e();function i(){let{t:e}=n();return(0,r.jsxs)(`main`,{className:`mx-auto flex w-full max-w-2xl flex-col gap-6 px-6 py-20`,children:[(0,r.jsx)(`h1`,{className:`font-display text-3xl font-semibold tracking-tight text-foreground`,children:e(`privacy.title`)}),(0,r.jsx)(t,{})]})}export{i as component};

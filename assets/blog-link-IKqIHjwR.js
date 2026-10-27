@@ -1,1 +1,0 @@
-import{L as e}from"./policy-drawer-De9FDpxM.js";var t=e(`arrow-up-right`,[[`path`,{d:`M7 7h10v10`,key:`1tivn9`}],[`path`,{d:`M7 17 17 7`,key:`1vkiza`}]]);function n(e,t){if(!e)return null;let n=new Date(`${e}T00:00:00`);return Number.isNaN(n.getTime())?null:n.toLocaleDateString(t,{day:`2-digit`,month:`short`,year:`numeric`})}export{t as n,n as t};
