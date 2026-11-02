@@ -1,0 +1,1 @@
+var e=Object.freeze({assortment:`Assortment`,forecasting:`Forecasting`,pricing:`Pricing`,relevance:`Relevance`,targeting:`Targeting`});export{e as t};
