@@ -1,0 +1,1 @@
+import{l as e}from"./policy-content-DxlBvjYl.js";import{o as t}from"./index-B8KXV_Ve.js";import{t as n}from"./product-placeholder-page-yoDXizmF.js";var r=e();function i(){let{signInHref:e}=t.useLoaderData();return(0,r.jsx)(n,{contentId:`pricing`,name:`Pricing`,signInHref:e})}export{i as component};
