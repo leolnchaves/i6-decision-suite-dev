@@ -1,1 +1,0 @@
-import{l as e}from"./policy-content-Duir_fcj.js";import{t}from"./landing-page-D3Ni0OBu.js";import{v as n}from"./index-CbJplyEp.js";var r=e();function i(){let{signInHref:e}=n.useLoaderData();return(0,r.jsx)(t,{signInHref:e})}export{i as component};
