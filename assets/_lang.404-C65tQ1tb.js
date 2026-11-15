@@ -1,1 +1,0 @@
-import{u as e}from"./policy-content-CJ1EFPf4.js";import{O as t,_ as n}from"./index-RWhMudWx.js";var r=e();function i(){let{lang:e,signInHref:i}=n.useLoaderData();return(0,r.jsx)(t,{lang:e,signInHref:i})}export{i as component};
