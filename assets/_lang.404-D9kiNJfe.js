@@ -1,0 +1,1 @@
+import{u as e}from"./policy-content-DNKk7ciE.js";import{N as t,S as n}from"./index-WBzvVYOP.js";var r=e();function i(){let{lang:e,signInHref:i}=n.useLoaderData();return(0,r.jsx)(t,{lang:e,signInHref:i})}export{i as component};
